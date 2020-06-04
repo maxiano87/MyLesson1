@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lesson11_practic_timer</string>
+    <string name="str1">00:00</string>
+    <string name="str2">start</string>
+    <string name="str3">reset</string>
+</resources>

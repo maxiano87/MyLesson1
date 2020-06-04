@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="5dp"
+    tools:context=".BottomSeetsEx">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:text="@string/str1"
+        style="@style/TextAppearance.AppCompat.Headline"
+        android:textColor="#000"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <TextView
+        android:id="@+id/callTv"
+        android:text="@string/str2"
+        android:textColor="#000"
+        android:textSize="18sp"
+        android:layout_marginLeft="5dp"
+        android:drawableLeft="@drawable/ic_call"
+        android:drawablePadding="10dp"
+        android:gravity="center_vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/smsTv"
+        android:text="@string/str3"
+        android:textColor="#000"
+        android:textSize="18sp"
+        android:layout_marginLeft="5dp"
+        android:drawableLeft="@drawable/ic_sms_black_24dp"
+        android:drawablePadding="10dp"
+        android:gravity="center_vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/blockTv"
+        android:text="Block Number"
+        android:textColor="#000"
+        android:textSize="18sp"
+        android:layout_marginLeft="5dp"
+        android:drawableLeft="@drawable/ic_block"
+        android:drawablePadding="10dp"
+        android:gravity="center_vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>

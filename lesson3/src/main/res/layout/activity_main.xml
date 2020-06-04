@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+<!--Фон текста (по содержимому текста ) -->
+    <!--<TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#e0e0e0"
+        android:text="Hello World,Hello Maxiano!"
+        android:textSize="26sp"/>-->
+
+    <!--Общий фон (По родительскому элементу-->
+    <!--<TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#e0e0e0"
+        android:text="Hello World,Hello Maxiano!"
+        android:textSize="26sp"/>-->
+
+    <!--Точное значение-->
+    <!--<TextView
+        android:layout_width="150dp"
+        android:layout_height="90dp"
+        android:background="#e0e0e0"
+        android:text="Hello world"
+        android:textSize="26sp"/>-->
+
+    <!--Комбинированный-->
+    <!--<TextView
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:background="#e0e0e0"
+        android:text="Hello world"
+        android:textSize="26sp"/>-->
+
+    <!--Минимальный и максимальный-->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#e0e0e0"
+        android:maxWidth="250dp"
+        android:maxHeight="200dp"
+        android:minWidth="200dp"
+        android:minHeight="100dp"
+        android:text="Hello world"
+        android:textSize="26sp"/>
+
+</RelativeLayout>

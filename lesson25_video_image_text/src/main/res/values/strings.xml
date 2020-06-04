@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lesson25_video_image_text</string>
+    <string name="download">Download</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="choose_image">Choose Image</string>
+    <string name="upload_video">Upload Video</string>
+    <string name="choose_video">Choose Video</string>
+    <string name="open">OPEN</string>
+</resources>

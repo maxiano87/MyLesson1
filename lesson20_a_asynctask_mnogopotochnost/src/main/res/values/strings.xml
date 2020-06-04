@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lesson20_a_asynctask_mnogopotochnost</string>
+    <string name="txt">Clicks: 0</string>
+    <string name="txt1">Click</string>
+    <string name="txt2">Запуск</string>
+    <string name="txt3">Статус</string>
+</resources>

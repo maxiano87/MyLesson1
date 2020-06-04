@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lesson22_a_musicplayer</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+    <string name="_0_11">0:11</string>
+    <string name="_1_49">-1:49</string>
+</resources>

@@ -1,0 +1,164 @@
+{
+  "project_info": {
+    "project_number": "622337219480",
+    "firebase_url": "https://to-do-list-54874.firebaseio.com",
+    "project_id": "to-do-list-54874",
+    "storage_bucket": "to-do-list-54874.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622337219480:android:ce6435458e80ff6c1d29ed",
+        "android_client_info": {
+          "package_name": "com.example.lesson17_a_practic_todolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622337219480-m9l6913ui5fmvg5d37tp13kgrqo2lgvk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lesson17_a_practic_todolist",
+            "certificate_hash": "270486abd7cbc4698b414eaf70cca154e15ceab6"
+          }
+        },
+        {
+          "client_id": "622337219480-c66hmul103gcmsqe2joqukud1jpguk4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgiu_5xQFvnTf_valWMDtQgQ2xWBAGJ_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622337219480-c66hmul103gcmsqe2joqukud1jpguk4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622337219480:android:00d6e039d6504bcf1d29ed",
+        "android_client_info": {
+          "package_name": "com.example.lesson23_a_imagefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622337219480-c66hmul103gcmsqe2joqukud1jpguk4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgiu_5xQFvnTf_valWMDtQgQ2xWBAGJ_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622337219480-c66hmul103gcmsqe2joqukud1jpguk4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622337219480:android:3242e3407b1c125e1d29ed",
+        "android_client_info": {
+          "package_name": "com.example.lesson24_a_videofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622337219480-c66hmul103gcmsqe2joqukud1jpguk4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgiu_5xQFvnTf_valWMDtQgQ2xWBAGJ_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622337219480-c66hmul103gcmsqe2joqukud1jpguk4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622337219480:android:62d2a24c522dda291d29ed",
+        "android_client_info": {
+          "package_name": "com.example.lesson25_video_image_text"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622337219480-c66hmul103gcmsqe2joqukud1jpguk4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgiu_5xQFvnTf_valWMDtQgQ2xWBAGJ_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622337219480-c66hmul103gcmsqe2joqukud1jpguk4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622337219480:android:d15d8233454510fd1d29ed",
+        "android_client_info": {
+          "package_name": "com.example.myvideoandimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622337219480-c66hmul103gcmsqe2joqukud1jpguk4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgiu_5xQFvnTf_valWMDtQgQ2xWBAGJ_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622337219480-c66hmul103gcmsqe2joqukud1jpguk4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

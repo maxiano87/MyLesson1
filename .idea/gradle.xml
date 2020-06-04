@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="PLATFORM" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/lesson10_a_radiobutton" />
+            <option value="$PROJECT_DIR$/lesson10_b_radiobutton" />
+            <option value="$PROJECT_DIR$/lesson10_c_datepicker" />
+            <option value="$PROJECT_DIR$/lesson10_d_timepicker" />
+            <option value="$PROJECT_DIR$/lesson10_e_seekbar" />
+            <option value="$PROJECT_DIR$/lesson10_f_seekbar_main" />
+            <option value="$PROJECT_DIR$/lesson11_a_lifecicle" />
+            <option value="$PROJECT_DIR$/lesson11_b_intant" />
+            <option value="$PROJECT_DIR$/lesson11_c_intant" />
+            <option value="$PROJECT_DIR$/lesson11_d_intent" />
+            <option value="$PROJECT_DIR$/lesson11_e_intent" />
+            <option value="$PROJECT_DIR$/lesson11_practic_stopwatch" />
+            <option value="$PROJECT_DIR$/lesson11_practic_timer" />
+            <option value="$PROJECT_DIR$/lesson12_a_imageview" />
+            <option value="$PROJECT_DIR$/lesson12_b_imageview_prog" />
+            <option value="$PROJECT_DIR$/lesson12_c_imageview_raspolojenie" />
+            <option value="$PROJECT_DIR$/lesson12_d_imageview_raspolojenie_prog" />
+            <option value="$PROJECT_DIR$/lesson12_e_imageview_hranitvdrugoipapke" />
+            <option value="$PROJECT_DIR$/lesson12_f_blurimageview" />
+            <option value="$PROJECT_DIR$/lesson12_g_colorseekbar" />
+            <option value="$PROJECT_DIR$/lesson13_a_arrayadapter" />
+            <option value="$PROJECT_DIR$/lesson13_b_arrayadapter_smenshimcodom" />
+            <option value="$PROJECT_DIR$/lesson13_c_arrayadapter_ochenKorotkiy" />
+            <option value="$PROJECT_DIR$/lesson13_d_listview" />
+            <option value="$PROJECT_DIR$/lesson13_e_multiplecchoice" />
+            <option value="$PROJECT_DIR$/lesson13_f_practic" />
+            <option value="$PROJECT_DIR$/lesson14_a_customadapter" />
+            <option value="$PROJECT_DIR$/lesson14_b_viewholder" />
+            <option value="$PROJECT_DIR$/lesson14_c_withbutton" />
+            <option value="$PROJECT_DIR$/lesson15_a_spinner_vypadausheeokno" />
+            <option value="$PROJECT_DIR$/lesson15_b_spinner_soslushatelem" />
+            <option value="$PROJECT_DIR$/lesson15_c_multyautocompletetextview_mnojestvennyiyvyborizspiska" />
+            <option value="$PROJECT_DIR$/lesson15_d_gridview_otobrajenievvidesetki" />
+            <option value="$PROJECT_DIR$/lesson15_e_recyclerview_prokruchivaemyi" />
+            <option value="$PROJECT_DIR$/lesson15_practic_resylcleview" />
+            <option value="$PROJECT_DIR$/lesson16_a_styles" />
+            <option value="$PROJECT_DIR$/lesson16_b_styleswithmanifest" />
+            <option value="$PROJECT_DIR$/lesson16_c_customstyle" />
+            <option value="$PROJECT_DIR$/lesson16_d_menu" />
+            <option value="$PROJECT_DIR$/lesson16_e_submenu" />
+            <option value="$PROJECT_DIR$/lesson16_f_groupmenu" />
+            <option value="$PROJECT_DIR$/lesson16_g_codemenu_tojefnovprogramnom" />
+            <option value="$PROJECT_DIR$/lesson17_a_fragments" />
+            <option value="$PROJECT_DIR$/lesson17_a_practic_todolist" />
+            <option value="$PROJECT_DIR$/lesson17_b_fragments" />
+            <option value="$PROJECT_DIR$/lesson18_a_bottom_sheet" />
+            <option value="$PROJECT_DIR$/lesson19_a_bottomnavigationview" />
+            <option value="$PROJECT_DIR$/lesson19_b_novigationdrawer" />
+            <option value="$PROJECT_DIR$/lesson2" />
+            <option value="$PROJECT_DIR$/lesson20_a_asynctask_mnogopotochnost" />
+            <option value="$PROJECT_DIR$/lesson20_b_webview" />
+            <option value="$PROJECT_DIR$/lesson21_a_videoview" />
+            <option value="$PROJECT_DIR$/lesson22_a_musicplayer" />
+            <option value="$PROJECT_DIR$/lesson22_b_picasso" />
+            <option value="$PROJECT_DIR$/lesson23_a_imagefirebase" />
+            <option value="$PROJECT_DIR$/lesson24_a_videofirebase" />
+            <option value="$PROJECT_DIR$/lesson25_video_image_text" />
+            <option value="$PROJECT_DIR$/lesson2_a" />
+            <option value="$PROJECT_DIR$/lesson2_b" />
+            <option value="$PROJECT_DIR$/lesson3" />
+            <option value="$PROJECT_DIR$/lesson3_b" />
+            <option value="$PROJECT_DIR$/lesson3_c" />
+            <option value="$PROJECT_DIR$/lesson3_d" />
+            <option value="$PROJECT_DIR$/lesson3_e" />
+            <option value="$PROJECT_DIR$/lesson4_a" />
+            <option value="$PROJECT_DIR$/lesson4_b" />
+            <option value="$PROJECT_DIR$/lesson4_c" />
+            <option value="$PROJECT_DIR$/lesson4_d" />
+            <option value="$PROJECT_DIR$/lesson4_e" />
+            <option value="$PROJECT_DIR$/lesson4_f" />
+            <option value="$PROJECT_DIR$/lesson4_g" />
+            <option value="$PROJECT_DIR$/lesson5_c_code" />
+            <option value="$PROJECT_DIR$/lesson5_d_table_layout" />
+            <option value="$PROJECT_DIR$/lesson5_e_span" />
+            <option value="$PROJECT_DIR$/lesson5_f_framelayout" />
+            <option value="$PROJECT_DIR$/lesson5_g_framelayout" />
+            <option value="$PROJECT_DIR$/lesson5_gravity" />
+            <option value="$PROJECT_DIR$/lesson5_gravity_layout" />
+            <option value="$PROJECT_DIR$/lesson5_h_framelayout_code" />
+            <option value="$PROJECT_DIR$/lesson6_a_grid_layout" />
+            <option value="$PROJECT_DIR$/lesson6_b_grid_layout" />
+            <option value="$PROJECT_DIR$/lesson6_c_constrain_layout" />
+            <option value="$PROJECT_DIR$/lesson6_d_constraint_layout" />
+            <option value="$PROJECT_DIR$/lesson6_e_scrollview" />
+            <option value="$PROJECT_DIR$/lesson6_f_scrollview" />
+            <option value="$PROJECT_DIR$/lesson6_g_include" />
+            <option value="$PROJECT_DIR$/lesson6_h_include" />
+            <option value="$PROJECT_DIR$/lesson7_a_textview" />
+            <option value="$PROJECT_DIR$/lesson7_b_textview_programmcode" />
+            <option value="$PROJECT_DIR$/lesson7_c_texview_autolink" />
+            <option value="$PROJECT_DIR$/lesson7_d_texview_edittext" />
+            <option value="$PROJECT_DIR$/lesson7_e_texview_edittext_programmcode" />
+            <option value="$PROJECT_DIR$/lesson7_f_button" />
+            <option value="$PROJECT_DIR$/lesson7_g_button_programmcode" />
+            <option value="$PROJECT_DIR$/lesson8_calculator" />
+            <option value="$PROJECT_DIR$/lesson8_calculator_own" />
+            <option value="$PROJECT_DIR$/lesson9_a_toast" />
+            <option value="$PROJECT_DIR$/lesson9_b_snackbar" />
+            <option value="$PROJECT_DIR$/lesson9_c_checkbox" />
+            <option value="$PROJECT_DIR$/lesson9_d_checkbox" />
+            <option value="$PROJECT_DIR$/lesson9_e_checkbox_toast" />
+            <option value="$PROJECT_DIR$/lesson9_f_togglebutton" />
+            <option value="$PROJECT_DIR$/lesson9_g_togglebutton" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

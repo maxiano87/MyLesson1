@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lesson17_a_practic_todolist</string>
+    <string name="one">1</string>
+    <string name="str">title</string>
+    <string name="str1">Description</string>
+    <string name="str3">phone</string>
+    <string name="str4">surname</string>
+</resources>

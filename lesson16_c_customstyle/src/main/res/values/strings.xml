@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lesson16_c_customstyle</string>
+    <string name="str">Android Lollipop</string>
+    <string name="android_lollipop">Android Lollipop</string>
+    <string name="android_marshmallow">Android Marshmallow</string>
+    <string name="android_naugat">Android Naugat</string>
+</resources>

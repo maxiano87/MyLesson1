@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lesson23_a_imagefirebase</string>
+    <string name="choose_file">Choose file</string>
+    <string name="upload">Upload</string>
+    <string name="name">Name</string>
+    <string name="choose_image">Choose Image</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="download_image">Download Image</string>
+</resources>

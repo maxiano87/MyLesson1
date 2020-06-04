@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lesson11_e_intent</string>
+    <string name="cancle">Отмена</string>
+    <string name="age">Возраст не действителен</string>
+    <string name="first">Открыть доступ</string>
+    <string name="second">Отклонить доступ</string>
+</resources>
